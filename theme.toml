@@ -1,12 +1,9 @@
-name = 'Typo'
-license = 'MIT'
-licenselink = 'https://github.com/tomfran/typo/blob/main/LICENSE'
-description = 'A simple Hugo theme'
-
-homepage = 'https://github.com/tomfran/typo'
-
-demosite = 'https://tomfran.github.io/'
-
+name = 'typo-marko'
+license = 'Unlicense'
+licenselink = 'https://github.com/markop404/typo-marko/blob/main/LICENSE.txt'
+description = 'Fork of the typo theme for Hugo'
+homepage = 'https://github.com/markop404/typo-marko/'
+demosite = 'https://markopejic.com'
 tags = [
     "responsive",
     "simple",
@@ -24,7 +21,6 @@ features = [
     "blog",
     "table-of-contents",
     "highlight.js",
-    "favicon",
     "social-icons",
     "minified-assets",
     "dark-light-images",
@@ -32,5 +28,5 @@ features = [
 ]
 
 [author]
-name = 'Francesco Tomaselli'
-homepage = 'https://tomfran.github.io/'
+name = 'Marko Pejić'
+homepage = 'https://markopejic.com'
