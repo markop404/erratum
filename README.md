@@ -1,45 +1,25 @@
-![banner](https://raw.githubusercontent.com/tomfran/typo/main/images/banner-light.webp)
+# typo-marko
 
-# Typo, a Hugo theme.
+This is a fork of the [Typo](https://github.com/tomfran/typo) theme for [Hugo](https://gohugo.io). It's optimized for the needs of my personal website on [markopejic.com](https://markopejic.com). However, everything except the small list of changes listed below is the same as the upstream theme, so if you end up liking the changes made in this fork, feel free to use it for your own website.
 
-Typo is a theme backed by simplicity, as you can see in the screenshots below. The goal was to have a website centered around content and nothing more.
+## Changes
 
-[![wiki](https://img.shields.io/badge/doc-wiki-orange)](https://tomfran.github.io/typo-wiki/)
-[![hugo-typo](https://img.shields.io/badge/hugo_themes-@typo-red)](https://themes.gohugo.io/themes/typo/)
-[![GitHub Release](https://img.shields.io/github/v/release/tomfran/typo)](https://github.com/tomfran/typo/releases/latest)
-[![last-commit](https://img.shields.io/github/last-commit/tomfran/typo)](https://github.com/tomfran/typo/commits/)
+#### Breaking
+- Removed support for favicons
+- Removed support for installing this theme as a Hugo module
 
-**Homepage**
+#### Other
 
-![1](https://raw.githubusercontent.com/tomfran/typo/main/images/1.webp)
+- Changed the font family to Inter everywhere except in code elements
+- Added a Hugo shortcode for an anchor tag that opens a link in a new tab (``` {{< link "url" "name" >}} ```)
+- Added an email svg icon
+- Removed the prefix of forward slashes on header links
 
-**Article**
+## Getting Started
 
-![2](https://raw.githubusercontent.com/tomfran/typo/main/images/2.webp)
-
-![3](https://raw.githubusercontent.com/tomfran/typo/main/images/3.webp)
-
-## 1 Wiki
-
-Typo's [Wiki](https://tomfran.github.io/typo-wiki/) is the place to find instructions on how to [setup](https://tomfran.github.io/typo-wiki/setup) the theme and an overview of the available [features](https://tomfran.github.io/typo-wiki/features). 
-
-Some of the most relevant are: heading auto-numbering, dark mode, color palettes, dark and light images, comments, etc.
-
-## 2 Support
-
-If you use the theme or found it useful you can support me by leaving a star ⭐ to Typo's Github repository.
-
-[Contributions](https://github.com/tomfran/typo/blob/main/CONTRIBUTING.md) are always welcome, feel free to open issues and PRs with fixes or new features.
-
-## 3 Typo Users
-
-If you're using Typo for your website, feel free to add your website to [the list](https://github.com/tomfran/typo/blob/main/USERS.md) alongside what you do! 😊
-
-## 4 Questions or ideas? 
-
-Use the [discussion tab](https://github.com/tomfran/typo/discussions) to share ideas/tips/questions about Typo or Hugo in general!
-
-## 5 References
-
-The SVGs for social icons are taken from [Simple Icons](https://github.com/simple-icons/simple-icons).
-Every SVG present on the website is usable on the theme.
+To get started with this theme, simply add this repo to your Hugo project as a git submodule:
+```bash
+git submodule add --depth=1 https://github.com/markop404/typo-marko.git themes/typo-marko
+git submodule update --init --recursive
+```
+and change the theme in your Hugo configuration to 'typo-marko'. The documentation of all the configuration options that are not listed above as broken is available in the [upstream wiki](https://tomfran.github.io/typo-wiki).
