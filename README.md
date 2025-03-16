@@ -12,10 +12,10 @@ A [Hugo](https://gohugo.io) theme forked from [Typo](https://github.com/tomfran/
 
 ### Other
 
-- Added params.favicons option to toggle favicon support
+- Added the ```params.favicons``` option to toggle favicon support
 - Changed the font family to Inter everywhere except in code elements
 - Added a Hugo shortcode for an anchor tag that opens a link in a new tab (``` {{< link "url" "name" >}} ```)
-- Added an email svg icon
+- Added an ```email``` svg icon
 - Removed the prefix of forward slashes on header links
 - Redesigned footer
 
@@ -30,7 +30,7 @@ git submodule add --depth=1 https://github.com/markop404/erratum.git themes/erra
 git submodule update --init --recursive
 ```
 
-and change the theme in your Hugo configuration to 'erratum'. 
+and change the theme in your Hugo configuration to ```erratum```. 
 
 ## Documentation
 
