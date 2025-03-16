@@ -14,7 +14,7 @@ A [Hugo](https://gohugo.io) theme forked from [Typo](https://github.com/tomfran/
 
 - Added the ```params.favicons``` option to toggle favicon support
 - Changed the font family to Inter everywhere except in code elements
-- Added a Hugo shortcode for an anchor tag that opens a link in a new tab (``` {{< link "url" "name" >}} ```)
+- Added a Hugo shortcode ```{{< link "url" "name" >}}``` for an anchor tag that opens a link in a new tab
 - Added an ```email``` svg icon
 - Removed the prefix of forward slashes on header links
 - Redesigned footer
