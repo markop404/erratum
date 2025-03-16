@@ -24,7 +24,7 @@ A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)
 To setup your Hugo website to use this theme, simply add this repo to your Hugo project as a git submodule:
 
 ```bash
-git submodule add --depth=1 https://github.com/markop404/typo-marko.git themes/typo-marko
+git submodule add --depth=1 https://github.com/markop404/erratum.git themes/erratum
 git submodule update --init --recursive
 ```
 
