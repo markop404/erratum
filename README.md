@@ -1,6 +1,6 @@
 # typo-marko
 
-This is a fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme, optimized for the needs of my personal website on [markopejic.com](https://markopejic.com). However, it does aim to be compatible with upstream (for the most part). Changes from the original theme are listed below. If you end up liking them, feel free to use this theme for your own website.
+This is a fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme, optimized for the needs of my personal website on [markopejic.com](https://markopejic.com). However, it does aim to be compatible with the upstream theme (for the most part). Changes from upstream are listed below. If you end up liking them, feel free to use this theme for your own website.
 
 ## Changes
 More changes will drop as I keep updating my website.
