@@ -1,6 +1,7 @@
+ 
 # Erratum
 
-A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme, optimized for the needs of my personal website on [markopejic.com](https://markopejic.com). However, it does aim to be compatible (for the most part) with the upstream theme. Changes from upstream are listed below. If you end up liking them, feel free to use this theme for your own website.
+A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme made for my personal website on [markopejic.com](https://markopejic.com). Most of the modifications (listed below) remain compatible with the upstream theme. So if you end up liking the changes made in this fork, feel free to use it for your own websites.
 
 ## Changes
 
@@ -28,8 +29,8 @@ git submodule add --depth=1 https://github.com/markop404/erratum.git themes/erra
 git submodule update --init --recursive
 ```
 
-and change the theme in your Hugo configuration to 'typo-marko'. 
+and change the theme in your Hugo configuration to 'erratum'. 
 
 ## Configuration
 
-The documentation of all theme features that are not listed above as broken is available in the [upstream wiki](https://tomfran.github.io/typo-wiki).
+The documentation of all features that are not listed above as broken is available in the [upstream wiki](https://tomfran.github.io/typo-wiki).
