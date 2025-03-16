@@ -1,4 +1,4 @@
-# typo-marko
+# Erratum
 
 A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme, optimized for the needs of my personal website on [markopejic.com](https://markopejic.com). However, it does aim to be compatible (for the most part) with the upstream theme. Changes from upstream are listed below. If you end up liking them, feel free to use this theme for your own website.
 
