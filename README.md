@@ -17,6 +17,7 @@ This is a fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://go
 - Added a Hugo shortcode for an anchor tag that opens a link in a new tab (``` {{< link "url" "name" >}} ```)
 - Added an email svg icon
 - Removed the prefix of forward slashes on header links
+- Redesigned footer
 
 ## Setup
 
