@@ -1,6 +1,6 @@
 # Erratum
 
-A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme with (mostly) upstream compatible modifications made for my [personal website](https://markopejic.com). If you like it, feel free to use it yourself.
+A [Hugo](https://gohugo.io) theme forked from [Typo](https://github.com/tomfran/typo) with mostly upstream compatible modifications made for my [personal website](https://markopejic.com).
 
 ## Changes
 
@@ -34,4 +34,4 @@ and change the theme in your Hugo configuration to 'erratum'.
 
 ## Documentation
 
-Since this theme is mostly upstream compatible, [Typo's wiki](https://tomfran.github.io/typo-wiki) contains relevant documentation.
+Since Erratum is mostly compatible with Typo, [Typo's wiki](https://tomfran.github.io/typo-wiki) contains relevant documentation.
