@@ -1,10 +1,10 @@
 # Erratum
 
-A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme with (mostly) upstream compatible modifications made for my [personal website](https://markopejic.com).
+A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)) theme with (mostly) upstream compatible modifications made for my [personal website](https://markopejic.com). If you like it, feel free to use it yourself.
 
 ## Changes
 
-:information_source: More changes will drop as I keep working on my website.
+> :information_source: More changes will drop as I keep working on my website.
 
 ### Breaking
 
@@ -20,6 +20,8 @@ A fork of the [Typo](https://github.com/tomfran/typo) ([Hugo](https://gohugo.io)
 - Redesigned footer
 
 ## Setup
+
+> :warning: If you don't already have a basic Hugo website, follow [Hugo's quick start guide](https://gohugo.io/getting-started/quick-start/) first.
 
 To setup Erratum in your Hugo website, simply add this repo to your Hugo project as a git submodule:
 
