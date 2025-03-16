@@ -34,4 +34,4 @@ and change the theme in your Hugo configuration to 'erratum'.
 
 ## Documentation
 
-Since this theme is mostly upstream compatible, the [upstream wiki](https://tomfran.github.io/typo-wiki) contains relevant documentation.
+Since this theme is mostly upstream compatible, [Typo's wiki](https://tomfran.github.io/typo-wiki) contains relevant documentation.
