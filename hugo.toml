@@ -4,6 +4,9 @@ defaultContentLanguage = 'en-us'
 title = 'typo-marko'
 
 # Default config
+[params]
+favicons = true
+
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
