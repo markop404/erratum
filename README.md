@@ -4,8 +4,6 @@ A [Hugo](https://gohugo.io) theme forked from [Typo](https://github.com/tomfran/
 
 ## Changes
 
-> :information_source: More changes will drop as I keep working on my website.
-
 ### Breaking
 
 - Removed support for installing this theme as a Hugo module
