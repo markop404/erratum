@@ -16,6 +16,7 @@ A [Hugo](https://gohugo.io) theme forked from [Typo](https://github.com/tomfran/
 - Added an ```email``` svg icon
 - Removed the prefix of forward slashes on header links
 - Redesigned footer
+- Redisgned header & navigation bar
 
 ## Setup
 
